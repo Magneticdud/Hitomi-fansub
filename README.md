@@ -3,15 +3,15 @@ Hitomi is the 78th NHK Asadora, in 156 episodes. English subs are not available,
 
 ## Subs
 
-The subtitles for the first 36 episodes were transcribed from hardsubbed TVRip and re-timed by Akoya Fansubs. Those subs are available on [D-Addicts](http://www.d-addicts.com/forums/viewtopic.php?f=13&t=161623). Here you will find from 37 onwards.
+The subtitles for the first 36 episodes were done by Akoya Fansubs. Those subs are available on [D-Addicts](http://www.d-addicts.com/forums/viewtopic.php?f=13&t=161623). Here you will find from 37 onwards.
 
 ## How it works
 
-Hardsubs are extracted from a VHS recording with VideoSubFinder. The file has a lot of OCR errors that have to be fixed. Then, the timing of the subs usually are different compared with the raws available on nyaa, so it need to be fixed also. One episode at a time will be committed.
+Hardsubs are extracted with VideoSubFinder. The file has a lot of OCR errors that have to be fixed. Then, the timing of the subs usually are different compared with the raws available on nyaa, so it need to be fixed also. One episode at a time will be committed.
 
 ## Contributing
 
-If you notice some errors, you can open an [issue](https://github.com/Magneticdud/Hitomi-fansub/issues) and I will fix it. If you want to fix a whole sub, you can submit pull requests
+If you notice some errors, you can open an [issue](https://github.com/Magneticdud/Hitomi-fansub/issues) and I will fix it. If you want to fix a whole sub, you can submit pull requests. If you want to join the project, you're welcome.
 
 ## Some links
 
