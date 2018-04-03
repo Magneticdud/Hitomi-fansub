@@ -14,6 +14,7 @@ Each week, once is final version, is kept in a different branch. The main (maste
 * [Week 7](https://github.com/Magneticdud/Hitomi-fansub/tree/Week7)
 * Week 8
 * ...
+* [Japanese subs for eps 1-30](https://github.com/Magneticdud/Hitomi-fansub/tree/Nihongo) - extracted by [rokonoko](http://www.d-addicts.com/forums/viewtopic.php?t=60234)
 
 ## How it works
 
