@@ -1,4 +1,4 @@
-1
+﻿1
 00:00:12,178 --> 00:00:14,513
 HAPTER 8
 Two Kinds of \>ve"
@@ -448,7 +448,7 @@ encompass a your adness.
 
 99
 00:10:07,106 --> 00:10:13,278
-One parted w\h ou
+One parted w  ou
 For your^ake, ouijDf
 
 100
