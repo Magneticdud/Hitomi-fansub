@@ -12,7 +12,8 @@ You can see each download from the [Releases](https://github.com/Magneticdud/Hit
 Each week, once is final version, is kept in a different branch. The main (master) branch contains only the "work in progress". Links to the branches:
 
 * [Week 7](https://github.com/Magneticdud/Hitomi-fansub/tree/Week7)
-* Week 8
+* [Week 8](https://github.com/Magneticdud/Hitomi-fansub/tree/Week8)
+* Week 9
 * ...
 * [Japanese subs for eps 1-30](https://github.com/Magneticdud/Hitomi-fansub/tree/Nihongo) - extracted by [rokonoko](http://www.d-addicts.com/forums/viewtopic.php?t=60234)
 
