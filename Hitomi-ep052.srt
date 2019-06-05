@@ -1,292 +1,305 @@
 ﻿1
+00:00:04,821 --> 00:00:09,021
+HITOMI
+
+2
 00:00:12,262 --> 00:00:14,464
 CHAPTER 9
 "I'm Getting Married"
 Episode 52
 
-2
+3
 00:01:30,660 --> 00:01:33,920
 Keiko? Go! Go! Go!
 
-3
+4
 00:01:34,040 --> 00:01:36,200
 Well done, everybody.
 
-4
+5
 00:01:36,360 --> 00:01:38,580
 Come as fast as you can!
 
-5
+6
 00:01:38,600 --> 00:01:40,110
 Right this way.
 
-6
-00:01:40,580 --> 00:01:42,582
-AII right. We're coming over now.
-
 7
+00:01:40,580 --> 00:01:42,582
+All right.
+We're coming over now.
+
+8
 00:02:15,781 --> 00:02:17,583
 It makes you nervous, doesn't it?
 
-8
+9
 00:02:17,583 --> 00:02:19,451
 After what happened with Momoko...
 
-9
-00:02:20,352 --> 00:02:21,420
-Mako... ?
-
 10
+00:02:20,352 --> 00:02:21,420
+Mako...?
+
+11
 00:02:21,420 --> 00:02:22,821
 What about your shop?
 
-11
-00:02:22,821 --> 00:02:24,056
-Don't worry... I left it in Hiroshi's hand.
-
 12
+00:02:22,821 --> 00:02:24,056
+Don't worry...
+I left it in Hiroshi's hand.
+
+13
 00:02:24,089 --> 00:02:25,590
 No, you didn't.
 
-13
+14
 00:02:25,590 --> 00:02:27,692
 What are you doing here?
 
-14
+15
 00:02:27,692 --> 00:02:29,761
 Because want to see it for myself.
 
-15
+16
 00:02:29,761 --> 00:02:31,563
 Just get back to the shop.
 
-16
+17
 00:02:31,563 --> 00:02:33,231
 I'll tell you what happened later.
 
-17
+18
 00:02:40,038 --> 00:02:40,939
 Keiko...
 
-18
+19
 00:02:43,574 --> 00:02:45,209
 Don't any of you interfere...
 
-19
-00:02:45,209 --> 00:02:47,678
-Once it's over, I'll be sure to tell you the result.
-
 20
+00:02:45,209 --> 00:02:47,678
+Once it's over,
+I'll be sure to tell you the result.
+
+21
 00:02:49,847 --> 00:02:50,948
 Are you ready?
 
-21
-00:02:57,700 --> 00:02:59,150
-Grandpa... ?
-
 22
+00:02:57,700 --> 00:02:59,150
+Grandpa...?
+
+23
 00:03:00,457 --> 00:03:01,859
 Keiko's here.
 
-23
+24
 00:03:01,940 --> 00:03:02,700
 Keiko?
 
-24
+25
 00:03:05,729 --> 00:03:07,498
 Why are you all dressed up today?
 
-25
-00:03:09,266 --> 00:03:09,800
-Dad... ?
-
 26
+00:03:09,266 --> 00:03:09,800
+Dad...?
+
+27
 00:03:11,268 --> 00:03:12,836
 Do you have a minute?
 
-27
+28
 00:03:13,337 --> 00:03:14,337
 Sure...
 
-28
+29
 00:03:16,907 --> 00:03:18,108
 What is it?
 
-29
+30
 00:03:20,176 --> 00:03:21,945
 This is Katsumata Seiji.
 
-30
+31
 00:03:23,546 --> 00:03:24,914
 This is my father.
 
-31
-00:03:25,715 --> 00:03:27,584
-Pleased to meet you. My name is Katsumata.
-
 32
+00:03:25,715 --> 00:03:27,584
+Pleased to meet you.
+My name is Katsumata.
+
+33
 00:03:28,184 --> 00:03:29,419
 Mr. Katsumata...
 
-33
+34
 00:03:29,953 --> 00:03:31,587
 That's right... Mr. Katsumata.
 
-34
+35
 00:03:33,456 --> 00:03:35,258
 Won't you come in?
 
-35
+36
 00:03:36,125 --> 00:03:37,226
 Come on in.
 
-36
+37
 00:03:38,327 --> 00:03:39,328
 If it's all right with you...
 
-37
+38
 00:03:40,496 --> 00:03:41,597
 Please... come in.
 
-38
-00:03:43,332 --> 00:03:47,236
-I see... so you met when you were in the hospital,
-
 39
+00:03:43,332 --> 00:03:47,236
+I see... so you met when
+you were in the hospital,
+
+40
 00:03:47,236 --> 00:03:48,737
 and that's how you got to be friends.
 
-40
+41
 00:03:49,238 --> 00:03:50,406
 That's right.
 
-41
+42
 00:03:51,373 --> 00:03:53,208
 She really took good care of me.
 
-42
-00:03:58,046 --> 00:03:59,948
-I don't mean to be rude, but what do you do for
-
 43
+00:03:58,046 --> 00:03:59,948
+I don't mean to be rude,
+but what do you do for
+
+44
 00:03:59,948 --> 00:04:01,683
 a living, Mr. Katsumata?
 
-44
+45
 00:04:03,285 --> 00:04:04,519
 I'm a web designer.
 
-45
+46
 00:04:05,754 --> 00:04:07,455
 Baby designer?
 
-46
-00:04:08,256 --> 00:04:11,226
-It's work that's related to the Internet...
-
 47
+00:04:08,256 --> 00:04:11,226
+It's work that's related
+to the Internet...
+
+48
 00:04:11,226 --> 00:04:13,928
 He designs home pages for companies.
 
-48
+49
 00:04:15,797 --> 00:04:18,166
 That's...
 
-49
+50
 00:04:18,166 --> 00:04:19,968
 ...really impressive, isn't it?
 
-50
+51
 00:04:21,069 --> 00:04:22,136
 Not at all.
 
-51
+52
 00:04:22,904 --> 00:04:25,807
 Actually...
 
-52
+53
 00:04:26,941 --> 00:04:29,977
 Mr. Katsumata and I are dating.
 
-53
+54
 00:04:33,748 --> 00:04:35,382
 I thought so...
 
-54
+55
 00:04:35,382 --> 00:04:37,218
 That's what I thought...
 
-55
+56
 00:04:37,952 --> 00:04:39,153
 You knew?
 
-56
+57
 00:04:39,153 --> 00:04:40,454
 Of course I did.
 
-57
-00:04:40,454 --> 00:04:45,425
-I've been through a similar experience before as a father.
-
 58
+00:04:40,454 --> 00:04:45,425
+I've been through a similar
+experience before as a father.
+
+59
 00:04:51,398 --> 00:04:54,367
 Which means...
 
-59
+60
 00:04:54,367 --> 00:04:56,736
 What does it mean, Mr. Katsumata?
 
-60
+61
 00:04:59,406 --> 00:05:00,707
 It's...
 
-61
+62
 00:05:00,907 --> 00:05:02,142
 Shortly...
 
-62
-00:05:06,079 --> 00:05:08,881
-We're... dating with the intent to get married.
-
 63
-00:05:10,116 --> 00:05:14,854
-Actually, I already proposed to Keiko last week, and
+00:05:06,079 --> 00:05:08,881
+We're... dating with the
+intent to get married.
 
 64
+00:05:10,116 --> 00:05:14,854
+Actually, I already proposed
+to Keiko last week, and
+
+65
 00:05:14,854 --> 00:05:16,989
 she agreed to marry me.
 
-65
+66
 00:05:20,259 --> 00:05:26,532
 So I came here today to ask you...
 
-66
+67
 00:05:26,799 --> 00:05:30,636
 Please... allow me to marry Keiko.
 
-67
-00:05:33,939 --> 00:05:36,708
-Wait! Wait a minute! Raise your head.
-
 68
-00:05:36,708 --> 00:05:38,744
-Mr. Katsumata... please raise your head.
+00:05:33,939 --> 00:05:36,708
+Wait! Wait a minute!
+Raise your head.
 
 69
+00:05:36,708 --> 00:05:38,744
+Mr. Katsumata...
+please raise your head.
+
+70
 00:05:43,181 --> 00:05:44,549
 I see...
 
-70
+71
 00:05:46,785 --> 00:05:48,386
 Mr. Katsumata...
 
-71
-00:05:50,121 --> 00:05:55,360
-If we make a mess out of this now, we'll regret
-
 72
-00:05:55,360 --> 00:05:57,362
-it later, so...
+00:05:50,121 --> 00:05:57,362
+If we make a mess out of this now,
+we'll regret it later, so...
 
 73
 00:05:58,629 --> 00:06:01,265
@@ -298,7 +311,8 @@ Keiko isn't my daughter...
 
 75
 00:06:10,941 --> 00:06:16,680
-She is my daughter, but she's not really my daughter.
+She is my daughter, but
+she's not really my daughter.
 
 76
 00:06:17,281 --> 00:06:18,649
@@ -318,15 +332,18 @@ Keiko's had a hard life...
 
 80
 00:06:30,360 --> 00:06:33,230
-She's really suffered a lot since she was a child.
+She's really suffered a
+lot since she was a child.
 
 81
 00:06:35,231 --> 00:06:40,737
-Until she came to live here, she was at an orphanage...
+Until she came to live here,
+she was at an orphanage...
 
 82
 00:06:42,205 --> 00:06:48,845
-That's why until she came here, she didn't know
+That's why until she came
+here, she didn't know
 
 83
 00:06:48,845 --> 00:06:52,849
@@ -334,7 +351,8 @@ much about the warmth of a family.
 
 84
 00:06:55,318 --> 00:07:04,593
-So my late wife and I became her real parents, and
+So my late wife and I became
+her real parents, and
 
 85
 00:07:04,593 --> 00:07:07,930
@@ -342,377 +360,392 @@ raised Keiko.
 
 86
 00:07:13,268 --> 00:07:18,273
-So to Keiko, marriage is having a family...
+So to Keiko, marriage
+is having a family...
 
 87
 00:07:20,242 --> 00:07:23,078
 It means having the warmth of a family.
 
 88
-00:07:28,550 --> 00:07:32,820
-Mr. Katsumata... can you give Keiko the warmth
+00:07:28,550 --> 00:07:36,190
+Mr. Katsumata... can you give
+Keiko the warmth of a family?
 
 89
-00:07:32,820 --> 00:07:36,190
-of a family?
+00:07:38,359 --> 00:07:42,363
+Yes, l can. Together with
+Keiko, I'll do my best so
 
 90
-00:07:38,359 --> 00:07:42,363
-Yes, l can. Together with Keiko, I'll do my best so
-
-91
 00:07:42,363 --> 00:07:45,733
 she'll have the warmth of a family.
 
-92
+91
 00:07:46,367 --> 00:07:48,335
-Right now, I work for a company, but in the
+Right now, I work for
+a company, but in the
+
+92
+00:07:48,335 --> 00:07:50,871
+future, I'm hoping
+to start my own company.
 
 93
-00:07:48,335 --> 00:07:50,871
-future, I'm hoping to start my own company.
+00:07:50,871 --> 00:07:52,907
+Once I do that,
+I can work at home, so Keiko
 
 94
-00:07:50,871 --> 00:07:52,907
-Once I do that, I can work at home, so Keiko
+00:07:52,907 --> 00:07:55,609
+and I can spend as much
+time as possible together.
 
 95
-00:07:52,907 --> 00:07:55,609
-and I can spend as much time as possible together.
+00:07:55,609 --> 00:07:59,046
+I'm a good cook, so when Keiko's
+busy, I can cook.
 
 96
-00:07:55,609 --> 00:07:59,046
-I'm a good cook, so when Keiko's busy, I can cook.
-
-97
 00:07:59,046 --> 00:08:01,582
 And we'll have about five children.
 
-98
+97
 00:08:02,115 --> 00:08:03,083
 That many?
 
-99
+98
 00:08:04,584 --> 00:08:07,287
 Don't worry... I love children.
 
-100
+99
 00:08:17,730 --> 00:08:19,065
 Mr. Katsumata...
 
-101
+100
 00:08:21,935 --> 00:08:24,370
 Have you...
 
-102
+101
 00:08:24,370 --> 00:08:26,472
 ...ever carried a portable shrine?
 
-103
+102
 00:08:31,544 --> 00:08:33,646
-I'm sorry... I've never carried one before.
+I'm sorry...
+I've never carried one before.
 
-104
+103
 00:08:35,147 --> 00:08:38,484
 You haven't? Why not?
 
-105
+104
 00:08:39,718 --> 00:08:41,253
 Grandpa!
 
-106
+105
 00:08:50,929 --> 00:08:54,700
-I'm sorry to ask you such a strange question...
+I'm sorry to ask you such
+a strange question...
 
-107
+106
 00:08:59,337 --> 00:09:01,506
 Mr. Katsumata...
 
-108
+107
 00:09:02,774 --> 00:09:06,344
 I'm really grateful.
 
-109
+108
 00:09:09,480 --> 00:09:14,952
 I'm going to trust you, Mr. Katsumata.
 
-110
+109
 00:09:21,325 --> 00:09:23,661
 Keiko... Thank you.
 
-111
+110
 00:09:24,595 --> 00:09:33,170
-For bringing the man who means so much to you, over to meet me.
+For bringing the man who means
+so much to you, over to meet me.
+
+111
+00:09:33,737 --> 00:09:38,976
+You really didn't
+have to worry about me.
 
 112
-00:09:33,737 --> 00:09:38,976
-You really didn't have to worry about me.
-
-113
 00:09:39,977 --> 00:09:41,511
 Don't say that.
 
-114
+113
 00:09:41,511 --> 00:09:47,417
-I wanted you to approve of the man I'm going to marry.
+I wanted you to approve of
+the man I'm going to marry.
 
-115
+114
 00:09:51,655 --> 00:09:52,989
 Thank you.
 
-116
+115
 00:09:56,726 --> 00:10:01,497
 Mr. Katsumata... please...
 
-117
+116
 00:10:01,497 --> 00:10:04,500
 ... take good care of Keiko.
 
-118
+117
 00:10:05,635 --> 00:10:08,638
-I beg of you,.. please take good care of her.
+I beg of you...
+please take good care of her.
 
-119
+118
 00:10:09,071 --> 00:10:10,072
 Dad!
 
-120
+119
 00:10:10,539 --> 00:10:12,008
 I'll do my best.
 
-121
+120
 00:10:12,008 --> 00:10:15,144
 I'm counting on you.
 
-122
+121
 00:10:17,580 --> 00:10:22,251
 Please take good care of her.
 
-123
+122
 00:10:23,719 --> 00:10:25,954
 I really will do my best.
 
-124
+123
 00:10:35,797 --> 00:10:37,532
 Private party
 
-125
+124
 00:10:39,467 --> 00:10:40,702
 Cheers!
 
-126
+125
 00:10:42,404 --> 00:10:44,072
 Congratulations!
 
-127
+126
 00:10:45,540 --> 00:10:47,108
 Go ahead, and eat Mr. Katsumata.
 
-128
+127
 00:10:47,775 --> 00:10:49,210
 Is it okay to eat this?
 
-129
+128
 00:10:49,210 --> 00:10:50,311
 Of course it is.
 
-130
+129
 00:10:51,979 --> 00:10:54,615
-From what I heard, it went fairly smoothly, didn't it?
+From what I heard, it went fairly
+smoothly, didn't it?
+
+130
+00:10:55,149 --> 00:10:57,084
+What was unexpected was
+that he didn't let the
 
 131
-00:10:55,149 --> 00:10:57,084
-What was unexpected was that he didn't let the
+00:10:57,084 --> 00:11:00,388
+issue of carrying the
+portable shrine bother him.
 
 132
-00:10:57,084 --> 00:11:00,388
-issue of carrying the portable shrine bother him.
+00:11:00,388 --> 00:11:04,892
+Grandpa really looked happy that
+you came over to get his approval...
 
 133
-00:11:00,388 --> 00:11:03,224
-Grandpa really looked happy that you came over to get
-
-134
-00:11:03,224 --> 00:11:04,892
-his approval...
-
-135
 00:11:05,993 --> 00:11:07,528
 I was happy, too.
 
-136
+134
 00:11:08,028 --> 00:11:10,898
-I wanted to make sure Dad approved of him.
+I wanted to make sure
+Dad approved of him.
 
-137
+135
 00:11:14,535 --> 00:11:16,570
 Aren't you glad that he approved?
 
-138
+136
 00:11:18,071 --> 00:11:19,706
 So when is the wedding?
 
-139
+137
 00:11:20,240 --> 00:11:22,342
 We haven't decided yet...
 
-140
+138
 00:11:22,342 --> 00:11:25,245
-He's so busy that he doesn't know when he can take off.
+He's so busy that he doesn't
+know when he can take off.
 
-141
+139
 00:11:26,479 --> 00:11:28,715
 Keiko... you mustn't rush a man.
 
-142
+140
 00:11:29,549 --> 00:11:31,651
 If you rush him, he might run away.
 
-143
-00:11:32,185 --> 00:11:34,020
-Don't say strange things like that! You won't
+141
+00:11:32,185 --> 00:11:35,421
+Don't say strange things like that!
+You won't run away, will you?
 
-144
-00:11:34,020 --> 00:11:35,421
-run away, will you?
-
-145
+142
 00:11:36,022 --> 00:11:37,256
 Of course, I won't!
 
-146
+143
 00:11:39,392 --> 00:11:40,626
 Cheers!
 
-147
+144
 00:11:48,434 --> 00:11:49,902
 Are you drinking, Dad?
 
-148
+145
 00:11:50,336 --> 00:11:51,537
 Do you want some, too?
 
-149
+146
 00:12:03,248 --> 00:12:05,150
 Keiko s getting married.
 
-150
+147
 00:12:07,753 --> 00:12:08,854
 Are you happy?
 
-151
+148
 00:12:09,788 --> 00:12:11,123
 I don't know.
 
-152
+149
 00:12:12,757 --> 00:12:14,259
 Are you lonely?
 
-153
+150
 00:12:17,295 --> 00:12:18,463
 Neither.
 
-154
+151
 00:12:20,398 --> 00:12:22,800
 They must have gone home already.
 
-155
+152
 00:12:25,536 --> 00:12:28,506
 It seems so unfair.
 
-156
+153
 00:12:30,842 --> 00:12:34,011
-I've known her for 15 years, and she's going to marry
+I've known her for 15 years,
+and she's going to marry
 
-157
+154
 00:12:34,011 --> 00:12:36,147
-a man she's only known for six months.
+a man she's only
+known for six months.
 
-158
+155
 00:12:37,615 --> 00:12:39,483
 I can understand how you feel.
 
-159
+156
 00:12:42,620 --> 00:12:44,588
 It's painful being a man, isn't it?
 
-160
+157
 00:12:45,789 --> 00:12:47,691
-It's painful for you, too, isn't it, Dad?
+It's painful for you,
+too, isn't it, Dad?
 
-161
+158
 00:12:49,460 --> 00:12:50,961
 It sure is painful.
 
-162
+159
 00:12:53,130 --> 00:12:54,398
 Let's drink tonight...
 
-163
+160
 00:12:54,965 --> 00:12:56,333
 Two men in pain...
 
-164
+161
 00:12:57,200 --> 00:12:58,635
 Shall we drink then?
 
-165
+162
 00:12:59,136 --> 00:13:00,303
 Cheers!
 
-166
+163
 00:13:02,639 --> 00:13:03,607
 I'm home!
 
-167
+164
 00:13:05,942 --> 00:13:07,077
 Grandpa?
 
-168
+165
 00:13:10,413 --> 00:13:11,681
 Grandpa!
 
-169
+166
 00:13:14,350 --> 00:13:15,952
 Are you in the store, Grandpa?
 
-170
+167
 00:13:17,553 --> 00:13:18,921
 What are you doing?
 
-171
+168
 00:13:34,837 --> 00:13:36,271
 Grandpa...
 
-172
+169
 00:13:41,677 --> 00:13:43,745
 Look at her...
 
-173
+170
 00:13:43,745 --> 00:13:47,015
 She was so little.
 
-174
+171
 00:13:50,785 --> 00:13:55,557
-And now she's saying, "I'm getting married."
+And now she's saying,
+"I'm getting married."
 
-175
+172
 00:14:01,429 --> 00:14:03,464
 It's strange, isn't it?
 
-176
+173
 00:14:05,833 --> 00:14:09,670
 It's so strange that it makes me cry.
 
-177
+174
 00:14:43,837 --> 00:14:47,540
-As she looked at Katsutaro, Hitomi remembered what
+As she looked at Katsutaro,
+Hitomi remembered what
 
-178
+175
 00:14:47,540 --> 00:14:50,810
-they say about the father of the bride.
+they say about the
+father of the bride.
 
-179
+176
 00:14:50,810 --> 00:14:52,812
-To be continued
+To be continued...
 
